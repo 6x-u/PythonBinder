@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+recursive-include pythonbinder/assets *
+recursive-include pythonbinder *.png
+global-exclude *.pyc
+global-exclude __pycache__
